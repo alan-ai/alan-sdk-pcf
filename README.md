@@ -5,6 +5,11 @@
 
 Add a voice assistant to your application. With no or minimal changes to the existing UI.
 
+## How to start:
+
+1. [Sign up for Alan Studio](https://studio.alan.app/register) to build and test voice scripts in JavaScript.
+2. Get the Alan Power Apps SDK and add it to your project to embed the Alan button to your application. For details, see [Alan AI documentation]( https://alan.app/docs/client-api/pcf/powerapps).
+
 ## What is Alan?
 
 Alan is a conversational AI platform that lets you build voice assistants, chatbots and conversational bots for your business from scratch. It offers the whole set of tools to design, embed and host a voice interface solution for your app:
